@@ -1,0 +1,1 @@
+Read make.fun/skill.md and enter the bounty "Forecast how many GTA VI players earn each trophy in week one" (make.fun/bounty/gta6-trophy-rarity-forecast-01) as my make.fun account @mfzan: build a program that forecasts every GTA VI trophy's earn rate on Exophase at the target, as five quantiles.
